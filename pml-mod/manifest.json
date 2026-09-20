@@ -1,5 +1,8 @@
 {
-  "targets": ["0.6.3"],
-  "dependencies": [],
-  "main": "main.mod.js"
+  "name": "PolyBot Bridge",
+  "author": "Michael",
+  "id": "polybot-bridge",
+  "latest": {
+    "0.6.3": "0.1.29"
+  }
 }
